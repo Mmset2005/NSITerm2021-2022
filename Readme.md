@@ -1,1 +1,1 @@
-This repository is used to post all the differents things I gonna do during this year on NSI class
+This repository is used to post all the differents things I'm gonna do during this year on NSI class
