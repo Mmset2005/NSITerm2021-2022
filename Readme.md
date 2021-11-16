@@ -1,1 +1,1 @@
-This repository is used to post all the differents things I'm gonna do during this year on NSI class
+Hi, I've created this repository to store all the different stuff I'm gonna do this year in NSI class (btw I'm french so most of the docs will be in french, logic u know)
