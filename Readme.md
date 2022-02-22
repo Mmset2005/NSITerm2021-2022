@@ -1,1 +1,1 @@
-This repository is used to post all the differents things I gonna do during this year on NSI class
+This branch is used to store the solutions of FRANCE IOI problems, a french coding website
